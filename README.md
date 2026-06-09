@@ -11,14 +11,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 Learning **Microservices & Machine Learning**
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/macModa)
 - 💬 Ask me about **Flutter, Spring Boot, ESP32, IoT**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **jmihoussem552@gmail.com**
 
 <br><br><br>
 
 <h3>Connect with me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/jemai-houssem-04754240b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
