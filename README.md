@@ -16,7 +16,7 @@ Building practical backend systems, connected applications, and IoT solutions.
 - 🌱 Currently learning **Microservices & Machine Learning**
 - ⚙️ Interested in **Backend Development, IoT, APIs, and Cloud Deployment**
 - 💬 Ask me about **Python, Django, Spring Boot, Flutter, ESP32, MQTT, and IoT**
-- 📫 Reach me at **jmihoussem552@gmail.com**
+- 📫 Reach me at **houssem.jemai.tech@gmail.com**
 - 🔗 All my projects: [GitHub](https://github.com/macModa)
 
 ---
