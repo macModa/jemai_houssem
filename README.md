@@ -145,7 +145,7 @@ My main interests include:
 </a>
 </p>
 
-📧 **Email:** jmihoussem552@gmail.com
+📧 **Email:** houssem.jemai.tech@gmail.com
 
 ---
 
