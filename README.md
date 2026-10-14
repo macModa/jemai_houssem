@@ -56,7 +56,7 @@ An IoT project connecting ESP32 sensors to a backend for collecting and processi
 - MQTT-based communication
 - REST API development
 - Agricultural data processing
-
+🔗 **[View the live demo](https://lnkd.in/p/ebxpzPuT)**  
 💻 **[Explore the repository](https://github.com/macModa/farm_back)**
 
 ### 📡 Smart Telecom Backend
@@ -73,7 +73,7 @@ A Django web application built as a practical backend development project.
 
 **Tech:** Python · Django
 
-🔗 **[View the live demo](https://django-project-eta-kohl.vercel.app/)**  
+
 💻 **[Explore the source code](https://github.com/macModa/django-project)**
 
 ---
