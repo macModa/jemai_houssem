@@ -1,164 +1,109 @@
-<h1 align="center">Hi 👋, I'm Houssem Jemai</h1>
+# Hi 👋, I'm Houssem Jemai
 
-<h3 align="center">
-Backend & IoT Developer from Tunisia 🇹🇳
-</h3>
+### Backend Developer | Flutter | IoT 🇹🇳
 
-<p align="center">
-Building practical backend systems, connected applications, and IoT solutions.
-</p>
+I build practical backend systems, mobile applications, and IoT solutions — connecting APIs, databases, and real-world devices.
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **Marchi Marketplace**
-- 🌱 Currently learning **Microservices & Machine Learning**
-- ⚙️ Interested in **Backend Development, IoT, APIs, and Cloud Deployment**
-- 💬 Ask me about **Python, Django, Spring Boot, Flutter, ESP32, MQTT, and IoT**
-- 📫 Reach me at **houssem.jemai.tech@gmail.com**
-- 🔗 All my projects: [GitHub](https://github.com/macModa)
+- 🔭 Building **Marchi**, a marketplace for Tunisian artisans
+- 🌱 Learning microservices, scalable backend architecture, and machine learning
+- 💻 Interested in backend engineering, mobile development, IoT, and cloud deployment
+- 🛠️ Technologies: Python, Django, Java, Spring Boot, Flutter, REST APIs, MQTT
+- 📫 Email: **houssem.jemai.tech@gmail.com**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Backend & APIs
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,java,spring" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,flutter,dart" alt="Python, Django, Java, Spring Boot, Flutter and Dart" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github,firebase,arduino" alt="MySQL, MongoDB, Docker, Linux, Git, GitHub, Firebase and Arduino" />
 </p>
 
+**Backend:** Python, Django, Java, Spring Boot, REST APIs, JWT  
+**Mobile:** Flutter, Dart  
+**Databases:** MySQL, MongoDB  
+**IoT:** ESP32, MQTT, sensor data collection  
+**Tools & Infrastructure:** Git, GitHub, Docker, Linux, Firebase
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Marchi — Tunisian Artisan Marketplace
+
+A mobile-first marketplace designed to connect Tunisian artisans with customers.
+
+**Tech:** Flutter · Java · Spring Boot · MySQL · REST API
+
+- User authentication and role-based access control
+- Product browsing and management
+- Order management
+- QR-based delivery validation
+- PDF delivery documentation
+
+🎬 **[Watch the Marchi demo on LinkedIn](https://lnkd.in/p/eEx9zK7g)**  
+💻 **[Explore the source code on GitHub](https://github.com/macModa/marchi)**
+
+### 🌱 Smart Farming IoT Platform
+
+An IoT project connecting ESP32 sensors to a backend for collecting and processing agricultural data.
+
+**Tech:** Python · Django · REST API · ESP32 · MQTT · MongoDB · Docker
+
+- Sensor data collection and backend integration
+- MQTT-based communication
 - REST API development
-- Authentication & authorization
-- JWT / Role-Based Access Control
-- Backend application development
+- Agricultural data processing
 
-### IoT & Connected Systems
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,python" />
-</p>
+💻 **[Explore the repository](https://github.com/macModa/farm_back)**
 
-- ESP32
-- MQTT
-- Sensor-based systems
-- IoT data collection and processing
+### 📡 Smart Telecom Backend
 
-### Databases & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,git,github,firebase" />
-</p>
+A backend-focused project exploring Python/Django services and APIs for a telecom-oriented application.
 
-- MongoDB
-- MySQL
-- Docker
-- Linux
-- Git / GitHub
-- Firebase
+**Tech:** Python · Django · REST APIs
 
-### Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+💻 **[Explore the repository](https://github.com/macModa/smart_telecom_backend)**
 
-- Flutter
-- Dart
+### 🌐 Django Web Application
+
+A Django web application built as a practical backend development project.
+
+**Tech:** Python · Django
+
+🔗 **[View the live demo](https://django-project-eta-kohl.vercel.app/)**  
+💻 **[Explore the source code](https://github.com/macModa/django-project)**
 
 ---
 
-## ⭐ Featured Projects
+## 🎯 What I Enjoy Building
 
-### 🌱 [Smart Farming IoT Platform](https://github.com/macModa/farm_back)
-
-An IoT platform connecting **ESP32 sensors** to a backend through **MQTT**, with data storage, REST APIs, Docker support, and data preparation for analysis and machine learning.
-
-**Stack:** Python · Django · REST API · ESP32 · MQTT · MongoDB · Docker
-
-**Focus:** IoT communication, backend APIs, sensor data processing, and cloud-connected systems.
-
----
-
-### 🛍️ [Marchi](https://github.com/macModa/marchi) — Tunisian Artisan Marketplace
-
-A mobile-first marketplace connecting Tunisian artisans with customers, built with **Flutter & Spring Boot**.
-
-**Highlights:**
-- JWT Authentication & Refresh Token
-- Role-Based Access Control (RBAC)
-- PDF Delivery Slips
-- QR Code Validation
-- Firebase Push Notifications
-- Railway Cloud Deployment
-
-**Stack:** Flutter · Dart · Spring Boot · Java · MySQL · Firebase
+- REST APIs and backend services
+- Mobile applications integrated with APIs
+- IoT systems and connected devices
+- MQTT communication and sensor data processing
+- Database-driven applications
+- Maintainable software architectures
 
 ---
 
-### 📡 [Smart Telecom Backend](https://github.com/macModa/smart_telecom_backend)
+## 🤝 Let's Connect
 
-Backend-focused project demonstrating my experience building **Python/Django services and APIs** for a telecom-oriented application.
+I'm interested in collaborating on backend, Flutter, and IoT projects.
 
-**Stack:** Python · Django · REST APIs
-
----
-
-### 🌐 [Django Web Application](https://github.com/macModa/django-project)
-
-A Django web application developed as a practical backend project and deployed online.
-
-**Stack:** Python · Django
-
-🔗 [Live Demo](https://django-project-eta-kohl.vercel.app/)
+- 💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/jemai-houssem-04754240b/)**
+- 📧 **houssem.jemai.tech@gmail.com**
+- 💻 **[GitHub repositories](https://github.com/macModa)**
 
 ---
 
-## 🎯 Engineering Interests
-
-I enjoy building systems where software interacts with real-world data.
-
-My main interests include:
-
-- Backend engineering
-- IoT architectures
-- REST APIs
-- MQTT and connected devices
-- Distributed systems
-- Cloud deployment
-- Data processing & machine learning
-- Clean and maintainable software
-
----
-
-## 📚 Currently Learning
-
-- Microservices architecture
-- Machine Learning
-- Scalable backend systems
-- Better cloud and deployment practices
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jemai-houssem-04754240b/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
-📧 **Email:** houssem.jemai.tech@gmail.com
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=macModa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=macModa&show_icons=true&theme=tokyonight" alt="GitHub statistics" />
 </p>
-
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=macModa&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macModa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macModa&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
